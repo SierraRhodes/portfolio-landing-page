@@ -1,6 +1,8 @@
 body {
   background-color: #03071E;
   color: whitesmoke;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
 }
 
 .welcome {
@@ -30,4 +32,8 @@ a:active {
 
 a:link {
   color: #FAA307;
+}
+
+a:visited {
+  color: #F48C06;
 }
