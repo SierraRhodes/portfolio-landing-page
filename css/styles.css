@@ -1,5 +1,6 @@
 body {
-  background-color: #4D908E;
+  background-color: #03071E;
+  color: whitesmoke;
 }
 
 .welcome {
@@ -9,11 +10,24 @@ body {
 
 .container {
   text-align: center;
+  border: 20px #DC2F02;
 }
 
 .me {
   border-image: round;
-  border: 4px solid #F9844A;
+  border: 4px solid #6A040F;
   border-radius: 50%;
   height: 200px;
+}
+
+a:hover {
+  color: #6A040F;
+}
+
+a:active {
+  color: #DC2F02;
+}
+
+a:link {
+  color: #FAA307;
 }
