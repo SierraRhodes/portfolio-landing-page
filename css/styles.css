@@ -20,7 +20,7 @@ body {
       margin-right: 100%;
       width: 300%;
     }
-  
+  /* This will animate the h1 */
     75% {
       font-size: 200%;
       margin-right: 25%;
@@ -70,4 +70,8 @@ a:visited {
   box-sizing: border-box;
   border: 5px solid black;
   text-align: center;
+}
+
+h4 {
+float: right;
 }
