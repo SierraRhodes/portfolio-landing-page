@@ -3,6 +3,7 @@ body {
   color: whitesmoke;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 20px;
+  padding-bottom: 15%;
 }
 
 .welcome {
@@ -10,7 +11,7 @@ body {
   padding: 50px;
   margin: auto;
   border: #6A040F;
-  animation-duration: 3s;
+  animation-duration: 5s;
   animation-name: slidein;
   }
   
@@ -67,8 +68,6 @@ a:visited {
   padding: auto;
   margin: auto;
   box-sizing: border-box;
-  float: inline-end;
   border: 5px solid black;
   text-align: center;
-
 }
