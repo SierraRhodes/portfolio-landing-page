@@ -62,3 +62,13 @@ a:link {
 a:visited {
   color: #FFBA08;
 }
+
+.contact {
+  padding: auto;
+  margin: auto;
+  box-sizing: border-box;
+  float: inline-end;
+  border: 5px solid black;
+  text-align: center;
+
+}
