@@ -48,14 +48,6 @@ h2 {
   border-radius: 50%; 
 }
 
-a:hover {
-  color: #6A040F;
-}
-
-a:active {
-  color: #DC2F02;
-}
-
 a:link {
   color: #6A040F;
 }
