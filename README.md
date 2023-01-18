@@ -3,6 +3,7 @@
 #### By _**Sierra Rhodes**_
 
 #### _This is a portfolio showcasing projects I have done._
+ https://lilbitsnpieces.github.io/portfolio-landing-page/
 
 ## Technologies Used
 
